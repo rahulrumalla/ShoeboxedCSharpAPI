@@ -1,0 +1,37 @@
+﻿namespace ShoeboxedService.ServiceImplementation
+{
+    public enum RequestTypeEnum
+    {
+        GetReceiptCall,
+        GetCategoryCall,
+        CreateUserCategoryCall,
+        GetReceiptInfoCall,
+        GetDocumentStatusCall,
+        UploadCall,
+        GetBillCall,
+        GetBillInfoCall,
+        GetBusinessCardCall,
+        GetBusinessCardInfoCall,
+        GetBusinessCardStatusCall,
+        EstimatePdfBusinessCardReportCall,
+        GeneratePdfBusinessCardReportCall,
+        GetBusinessCardExportsCall,
+        GetBusinessCardNotifyPreferenceCall,
+        SetBusinessCardNotifyPreferenceCall,
+        GetViralBusinessCardEmailTextCall,
+        GetAutoShareContactDetailsCall,
+        UpdateAutoShareContactDetailsCall,
+        GenerateCoversheetCall,
+        GetPdfExpenseReportsCall,
+        GetOtherDocumentCall,
+        GetOtherDocumentInfoCall,
+        ClaimAnonymousAccountCall,
+        CreateFreeTrialCall,
+        GetNewAnonymousUserCall,
+        GetFreeTrialsAvailableCall,
+        GetNumberFreeMobileCreditsCall,
+        GetUserStatisticsCall,
+        RegisterDiyUserCall,
+        GetLoginCall
+    }
+}

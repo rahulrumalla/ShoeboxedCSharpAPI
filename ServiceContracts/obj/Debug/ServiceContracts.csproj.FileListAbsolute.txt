@@ -1,0 +1,20 @@
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\ServiceContracts\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\ServiceContracts\bin\Debug\ShoeboxedService.ServiceContracts.dll.config
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\ServiceContracts\bin\Debug\ShoeboxedService.ServiceContracts.dll
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\ServiceContracts\bin\Debug\ShoeboxedService.ServiceContracts.pdb
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\ServiceContracts\obj\Debug\ShoeboxedService.ServiceContracts.dll
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\ServiceContracts\obj\Debug\ShoeboxedService.ServiceContracts.pdb
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\ServiceContracts\bin\Debug\ShoeboxedService.MessageContracts.dll
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\ServiceContracts\bin\Debug\ShoeboxedService.MessageContracts.pdb
+C:\Users\Rrumalla\documents\visual studio 2010\Projects\ServiceContracts\ServiceContracts\bin\Debug\ShoeboxedService.Domain.dll
+C:\Users\Rrumalla\documents\visual studio 2010\Projects\ServiceContracts\ServiceContracts\bin\Debug\ShoeboxedService.Domain.pdb
+C:\Users\Rrumalla\Desktop\ShoeboxedService\ServiceContracts\bin\Debug\ShoeboxedService.ServiceContracts.dll.config
+C:\Users\Rrumalla\Desktop\ShoeboxedService\ServiceContracts\bin\Debug\ShoeboxedService.ServiceContracts.dll
+C:\Users\Rrumalla\Desktop\ShoeboxedService\ServiceContracts\bin\Debug\ShoeboxedService.ServiceContracts.pdb
+C:\Users\Rrumalla\Desktop\ShoeboxedService\ServiceContracts\bin\Debug\ShoeboxedService.MessageContracts.dll
+C:\Users\Rrumalla\Desktop\ShoeboxedService\ServiceContracts\bin\Debug\ShoeboxedService.Domain.dll
+C:\Users\Rrumalla\Desktop\ShoeboxedService\ServiceContracts\bin\Debug\ShoeboxedService.MessageContracts.pdb
+C:\Users\Rrumalla\Desktop\ShoeboxedService\ServiceContracts\bin\Debug\ShoeboxedService.Domain.pdb
+C:\Users\Rrumalla\Desktop\ShoeboxedService\ServiceContracts\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rrumalla\Desktop\ShoeboxedService\ServiceContracts\obj\Debug\ShoeboxedService.ServiceContracts.dll
+C:\Users\Rrumalla\Desktop\ShoeboxedService\ServiceContracts\obj\Debug\ShoeboxedService.ServiceContracts.pdb

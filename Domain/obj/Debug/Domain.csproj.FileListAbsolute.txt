@@ -1,0 +1,12 @@
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\Domain\bin\Debug\ShoeboxedService.Domain.dll.config
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\Domain\bin\Debug\ShoeboxedService.Domain.dll
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\Domain\bin\Debug\ShoeboxedService.Domain.pdb
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\Domain\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\Domain\obj\Debug\ShoeboxedService.Domain.dll
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\Domain\obj\Debug\ShoeboxedService.Domain.pdb
+C:\Users\Rrumalla\Desktop\ShoeboxedService\Domain\bin\Debug\ShoeboxedService.Domain.dll.config
+C:\Users\Rrumalla\Desktop\ShoeboxedService\Domain\bin\Debug\ShoeboxedService.Domain.dll
+C:\Users\Rrumalla\Desktop\ShoeboxedService\Domain\bin\Debug\ShoeboxedService.Domain.pdb
+C:\Users\Rrumalla\Desktop\ShoeboxedService\Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rrumalla\Desktop\ShoeboxedService\Domain\obj\Debug\ShoeboxedService.Domain.dll
+C:\Users\Rrumalla\Desktop\ShoeboxedService\Domain\obj\Debug\ShoeboxedService.Domain.pdb

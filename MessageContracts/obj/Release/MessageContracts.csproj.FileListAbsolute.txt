@@ -1,0 +1,16 @@
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\MessageContracts\bin\Release\ShoeboxedService.MessageContracts.dll.config
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\MessageContracts\bin\Release\ShoeboxedService.MessageContracts.dll
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\MessageContracts\bin\Release\ShoeboxedService.MessageContracts.pdb
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\MessageContracts\obj\Release\ResolveAssemblyReference.cache
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\MessageContracts\obj\Release\ShoeboxedService.MessageContracts.dll
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\MessageContracts\obj\Release\ShoeboxedService.MessageContracts.pdb
+C:\Users\Rrumalla\documents\visual studio 2010\Projects\ServiceContracts\MessageContracts\bin\Release\ShoeboxedService.Domain.dll
+C:\Users\Rrumalla\documents\visual studio 2010\Projects\ServiceContracts\MessageContracts\bin\Release\ShoeboxedService.Domain.pdb
+C:\Users\Rrumalla\Desktop\ShoeboxedService\MessageContracts\bin\Release\ShoeboxedService.MessageContracts.dll.config
+C:\Users\Rrumalla\Desktop\ShoeboxedService\MessageContracts\bin\Release\ShoeboxedService.MessageContracts.dll
+C:\Users\Rrumalla\Desktop\ShoeboxedService\MessageContracts\bin\Release\ShoeboxedService.MessageContracts.pdb
+C:\Users\Rrumalla\Desktop\ShoeboxedService\MessageContracts\bin\Release\ShoeboxedService.Domain.dll
+C:\Users\Rrumalla\Desktop\ShoeboxedService\MessageContracts\bin\Release\ShoeboxedService.Domain.pdb
+C:\Users\Rrumalla\Desktop\ShoeboxedService\MessageContracts\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Rrumalla\Desktop\ShoeboxedService\MessageContracts\obj\Release\ShoeboxedService.MessageContracts.dll
+C:\Users\Rrumalla\Desktop\ShoeboxedService\MessageContracts\obj\Release\ShoeboxedService.MessageContracts.pdb

@@ -1,0 +1,22 @@
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\ServiceImplementation\bin\Release\ShoeboxedService.ServiceImplementation.dll
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\ServiceImplementation\bin\Release\ShoeboxedService.ServiceImplementation.pdb
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\ServiceImplementation\bin\Release\ShoeboxedService.MessageContracts.dll
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\ServiceImplementation\bin\Release\ShoeboxedService.ServiceContracts.dll
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\ServiceImplementation\bin\Release\ShoeboxedService.MessageContracts.pdb
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\ServiceImplementation\bin\Release\ShoeboxedService.ServiceContracts.pdb
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\ServiceImplementation\obj\Release\ResolveAssemblyReference.cache
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\ServiceImplementation\obj\Release\ShoeboxedService.ServiceImplementation.dll
+c:\users\rrumalla\documents\visual studio 2010\Projects\ServiceContracts\ServiceImplementation\obj\Release\ShoeboxedService.ServiceImplementation.pdb
+C:\Users\Rrumalla\documents\visual studio 2010\Projects\ServiceContracts\ServiceImplementation\bin\Release\ShoeboxedService.Domain.dll
+C:\Users\Rrumalla\documents\visual studio 2010\Projects\ServiceContracts\ServiceImplementation\bin\Release\ShoeboxedService.Domain.pdb
+C:\Users\Rrumalla\Desktop\ShoeboxedService\ServiceImplementation\bin\Release\ShoeboxedService.ServiceImplementation.dll
+C:\Users\Rrumalla\Desktop\ShoeboxedService\ServiceImplementation\bin\Release\ShoeboxedService.ServiceImplementation.pdb
+C:\Users\Rrumalla\Desktop\ShoeboxedService\ServiceImplementation\bin\Release\ShoeboxedService.Domain.dll
+C:\Users\Rrumalla\Desktop\ShoeboxedService\ServiceImplementation\bin\Release\ShoeboxedService.MessageContracts.dll
+C:\Users\Rrumalla\Desktop\ShoeboxedService\ServiceImplementation\bin\Release\ShoeboxedService.ServiceContracts.dll
+C:\Users\Rrumalla\Desktop\ShoeboxedService\ServiceImplementation\bin\Release\ShoeboxedService.Domain.pdb
+C:\Users\Rrumalla\Desktop\ShoeboxedService\ServiceImplementation\bin\Release\ShoeboxedService.MessageContracts.pdb
+C:\Users\Rrumalla\Desktop\ShoeboxedService\ServiceImplementation\bin\Release\ShoeboxedService.ServiceContracts.pdb
+C:\Users\Rrumalla\Desktop\ShoeboxedService\ServiceImplementation\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Rrumalla\Desktop\ShoeboxedService\ServiceImplementation\obj\Release\ShoeboxedService.ServiceImplementation.dll
+C:\Users\Rrumalla\Desktop\ShoeboxedService\ServiceImplementation\obj\Release\ShoeboxedService.ServiceImplementation.pdb

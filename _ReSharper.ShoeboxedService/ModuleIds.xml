@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="9D1C1F21-9DB7-4AD4-87DF-1145CD2F09FD" ModuleId="ServiceImplementation" />
+  <Module PersistentId="9EE9E8C9-50A4-4C4F-8828-5761387F4FF2" ModuleId="MessageContracts" />
+  <Module PersistentId="516A8890-C68C-41E1-82B1-6F12A3BF7769" ModuleId="ServiceContracts" />
+  <Module PersistentId="CFB99E03-DDEF-40D2-8B2B-42BA4EA085B9" ModuleId="ServiceHost" />
+</Modules>
