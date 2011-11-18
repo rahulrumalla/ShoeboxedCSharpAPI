@@ -21,7 +21,7 @@ There 2 ways for the initial setup.
 1. Import and localize the projects
 2. Run the .msi and install
 
-Either was, make a 'Service Reference' into your project from which you wish to make the calls, then use it like follows.,
+Either way, make a 'Service Reference' into your project from which you wish to make the calls, then use it like follows.,
 
 GetReceiptCall
 --------------
